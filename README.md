@@ -1,10 +1,9 @@
-## Hi friend 👋 💃 
+## Hi I'm Keshia 👋 💃 
 
 <!--
 **keshiacor/keshiacor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Keshia! 
 👩‍💻 I'm a software developer who is currently working as the team lead of the technical support and escalation team at Thinkific! I love exploring new things and there's always something new in the 🌍 of technology. 
 
 ## My Stack and knowledge
