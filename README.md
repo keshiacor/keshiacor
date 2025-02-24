@@ -16,9 +16,9 @@ JavaScript, HTML, CSS, React, NodeJS, Ruby, Ruby On Rails, SQL, GraphQL, Rest AP
 -  I wrote a children's short story when I was 6
 
 ## Getting in touch: 
-<img src="https://github.com/user-attachments/assets/c9d80859-22dc-4005-b64f-b97c7cbbb802" width="200" height="200" border="10" align="right">
-🔍 Something in my projects caught your attention? \
-📫 Email me at keshia@keshiacoriolan.io or connect via [LinkedIn](https://www.linkedin.com/in/keshia-coriolan/) \
-Got to go now but if you ever want to connect for a coffee chat ☕ , collaborate on a project 🤝 or talk code or dancing, you know how to reach me!😊
-Amazing things happen when knowledge 
-is shared! 
+<img src="https://github.com/user-attachments/assets/c9d80859-22dc-4005-b64f-b97c7cbbb802" width="200" height="200" border="10" align="right"/>
+
+-  🔍 Something in my projects caught your attention?  📫 Email me at keshia@keshiacoriolan.io 
+-  Connect via [LinkedIn](https://www.linkedin.com/in/keshia-coriolan/) 
+-  Looking to collaborate or connect, book a 30 mn slot in my [calendar](https://calendar.app.google/TegrEBx8wmC9Br4P6)
+Amazing things happen when knowledge is shared! 
