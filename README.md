@@ -20,7 +20,7 @@ A full-stack journaling platform where users can document travel experiences and
 - Wishlist & sharing features  
 - REST API powering frontend interactions  
 
-**Tech stack:** React • NodeJS • PostgreSQL • JavaScript  
+**Tech stack:** React • ExpressJS • PostgreSQL • JavaScript • Cloudinary • Multer     
 
 ## 🌱 Currently Growing 
 - Deepening my knowledge of the Rails ecosystem
